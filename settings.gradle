@@ -1,0 +1,2 @@
+rootProject.name = "Scoped Storage Api 30"
+include ':app'
